@@ -25,7 +25,7 @@ SECRET_KEY = '3&*3wa&ve414y81z=l$_^0%uq^%cvu%&v#$$1akbg9)zmr)*j5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-blog-richardadalton.c9users.io']
+ALLOWED_HOSTS = ['oct13blog1-bbuj27.c9users.io']
 
 
 # Application definition

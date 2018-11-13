@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% load static from staticfiles %}
 {% block content %}
-    
+    {{perms.all}}
     {% for post in posts %}
         <div class="row">
             <div class="col-md-2 col-sm-3 text-center">
